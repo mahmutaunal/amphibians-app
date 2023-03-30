@@ -37,3 +37,13 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Screenshots
+---------------
+
+[<img src="/screenshots/Screenshot_20230330_143043.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_143043.png)
+[<img src="/screenshots/Screenshot_20230330_143053.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_143053.png)
